@@ -13,7 +13,7 @@
 ( ) Zed Shaw
 ( ) Obie Fernandez
 
-?:   A sushi chef would say that Rails is ____.
+?:    A sushi chef would say that Rails is ____.
 
 [-]
 
