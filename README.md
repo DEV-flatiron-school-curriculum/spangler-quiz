@@ -2,11 +2,11 @@
 
 # spangler-quiz
 
-?:Who wrote the 'The Love Song of J. Alfred Prufrock'?
+?: Who wrote the 'The Love Song of J. Alfred Prufrock'?
 
 [-]
 
-?:Who invented Ruby?
+?: Who invented Ruby?
 
 ( ) Matz
 ( ) DHH
